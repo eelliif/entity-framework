@@ -1,0 +1,16 @@
+C:\Users\qwerty\source\repos\EntityFrameworkPrj1\EntityFrameworkPrj1\bin\Debug\EntityFrameworkPrj1.exe.config
+C:\Users\qwerty\source\repos\EntityFrameworkPrj1\EntityFrameworkPrj1\bin\Debug\EntityFrameworkPrj1.exe
+C:\Users\qwerty\source\repos\EntityFrameworkPrj1\EntityFrameworkPrj1\bin\Debug\EntityFrameworkPrj1.pdb
+C:\Users\qwerty\source\repos\EntityFrameworkPrj1\EntityFrameworkPrj1\bin\Debug\EntityFramework.dll
+C:\Users\qwerty\source\repos\EntityFrameworkPrj1\EntityFrameworkPrj1\bin\Debug\EntityFramework.xml
+C:\Users\qwerty\source\repos\EntityFrameworkPrj1\EntityFrameworkPrj1\obj\Debug\EntityFrameworkPrj1.csproj.AssemblyReference.cache
+C:\Users\qwerty\source\repos\EntityFrameworkPrj1\EntityFrameworkPrj1\obj\Debug\EntityFrameworkPrj1.Form1.resources
+C:\Users\qwerty\source\repos\EntityFrameworkPrj1\EntityFrameworkPrj1\obj\Debug\EntityFrameworkPrj1.MusteriForm.resources
+C:\Users\qwerty\source\repos\EntityFrameworkPrj1\EntityFrameworkPrj1\obj\Debug\EntityFrameworkPrj1.Properties.Resources.resources
+C:\Users\qwerty\source\repos\EntityFrameworkPrj1\EntityFrameworkPrj1\obj\Debug\EntityFrameworkPrj1.csproj.GenerateResource.cache
+C:\Users\qwerty\source\repos\EntityFrameworkPrj1\EntityFrameworkPrj1\obj\Debug\EntityFrameworkPrj1.csproj.CoreCompileInputs.cache
+C:\Users\qwerty\source\repos\EntityFrameworkPrj1\EntityFrameworkPrj1\obj\Debug\EntityFr.13FD637A.Up2Date
+C:\Users\qwerty\source\repos\EntityFrameworkPrj1\EntityFrameworkPrj1\obj\Debug\EntityFrameworkPrj1.exe
+C:\Users\qwerty\source\repos\EntityFrameworkPrj1\EntityFrameworkPrj1\obj\Debug\EntityFrameworkPrj1.pdb
+C:\Users\qwerty\source\repos\EntityFrameworkPrj1\EntityFrameworkPrj1\obj\Debug\EntityFrameworkPrj1.exe.config
+C:\Users\qwerty\source\repos\EntityFrameworkPrj1\EntityFrameworkPrj1\obj\Debug\EntityFrameworkPrj1.UrunForm.resources
